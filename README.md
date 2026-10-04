@@ -57,5 +57,5 @@ A tiny browser voxel experiment inspired by Minecraft.
 
 - 🎮 Play everything: [arsam92.github.io](https://arsam92.github.io/my-site/)
 - 💬 Open an issue on any repo if you find a bug or want a feature
-
+-  my email is habibifinance@gmail.com
 <sub>Built with AI assistance (Claude) and directed, tested, and published by me. Levels and logic are verified, not guessed.</sub>
