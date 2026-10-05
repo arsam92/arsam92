@@ -1,262 +1,198 @@
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,25:A78BFA,50:7C3AED,75:A78BFA,100:0D1117&text=ARSAM&fontSize=75&fontColor=A78BFA&fontAlignY=34&desc=peace-seeker%20%7C%20war-seeker%20%E2%9A%94%EF%B8%8F&descAlignY=55&descSize=17&animation=twinkling" width="100%" alt="ARSAM waving gradient banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B14,45:141B2D,75:6D28D9,100:080B14&text=ARSAM&fontSize=82&fontColor=FFFFFF&fontAlignY=36&desc=GAME%20DEV%20%7C%20WEBGL%20%7C%20ARLUN&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="ARSAM"/>
 
-</div>
+# ⚡ ARSAM
 
-<div align="center">
+### Building games, engines, and ideas for the web.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=peace-seeker%2C+war-seeker+%E2%9A%94%EF%B8%8F;I+build+browser+games+that+live+in+one+tab;HTML5+Canvas+%7C+JavaScript+%7C+TypeScript;Small.+Self-contained.+Dependency-free.;Directed%2C+tested%2C+shipped+%E2%80%94+by+me" alt="typing animation" />
+[![GitHub](https://img.shields.io/badge/GitHub-arsam92-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92)
+[![ARlun](https://img.shields.io/badge/Project-ARlun-7C3AED?style=for-the-badge)](https://github.com/arsam92?tab=repositories)
+[![Web](https://img.shields.io/badge/Web-First-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/arsam92)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=arsam92&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge&labelColor=0D1117" alt="profile views" />
-<img src="https://img.shields.io/github/followers/arsam92?style=for-the-badge&logo=github&logoColor=A78BFA&label=FOLLOWERS&color=A78BFA&labelColor=0D1117" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/arsam92?style=for-the-badge&logo=github&logoColor=A78BFA&label=STARS&color=A78BFA&labelColor=0D1117" alt="GitHub stars" />
-<img src="https://img.shields.io/badge/FOCUS-Game%20Feel%20%26%20Physics-A78BFA?style=for-the-badge&labelColor=0D1117" alt="focus" />
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collab-A78BFA?style=for-the-badge&labelColor=0D1117" alt="status" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=Game+Development+%E2%9C%A6;WebGL+%26+3D+Experiments+%F0%9F%8C%8C;Designing+ARlun+%E2%9A%A1;AI+Agents+%26+Game+Intelligence+%F0%9F%A4%96;Build.+Break.+Rebuild.+%F0%9F%94%A5" alt="typing"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
 
-<div align="center">
+## 🧠 About Me
 
-## 👤 `whoami`
+I'm **Arsam** — a developer focused on building things that run directly in the browser.
+
+My current interests:
+
+- 🎮 **Game development**
+- 🌌 **3D & WebGL**
+- ⚡ **Browser-first technology**
+- 🤖 **AI agents & game intelligence**
+- 🧩 **Programming language design**
+- 🚀 Turning weird ideas into playable experiments
+
+> **Don't just use the tools. Build the tools.**
+
+---
+
+## ⚡ ARlun
+
+### A programming language I'm designing for games & the web.
+
+**ARlun** is my long-term experiment: a custom language and ecosystem designed around browser-based game development.
+
+The goal is simple:
+
+> Make game development feel different.
+
+### What I'm exploring
+
+`3D Rendering` · `WebGL` · `Scenes` · `Physics` · `Animation` · `AI Agents` · `Game Logic`
+
+I'm especially interested in AI that behaves like an actual agent — with limited information, decisions, coordination, and different levels of intelligence.
+
+---
+
+## 🎮 What I Build
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🪪 Identity</h3>
-      <p align="left">
-        🧑‍🚀 <b>Name</b> → <code>Arsam</code><br>
-        🎮 <b>Role</b> → Indie Browser-Game Developer<br>
-        ⚔️ <b>Motto</b> → <i>peace-seeker, war-seeker</i><br>
-        📍 <b>Location</b> → Tehran, Iran 🇮🇷 · Planet Earth 🌍<br>
-        🧭 <b>Philosophy</b> → small · self-contained · dependency-free<br>
-        🚀 <b>Mission</b> → ship tiny games with big feelings<br>
-        📧 <b>Contact</b> → <code>habibifinance@gmail.com</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧰 Arsenal</h3>
-      <p align="left">
-        🧠 <b>Languages</b> → TypeScript · JavaScript · HTML · CSS<br>
-        🕹️ <b>Frameworks</b> → Vanilla JS · HTML5 Canvas · WebGL<br>
-        🛠️ <b>Tools</b> → Git · GitHub · VS Code · Codespaces<br>
-        🌐 <b>Deploy</b> → GitHub Pages<br>
-        📚 <b>Learning</b> → game physics · procedural generation<br>
-        ☕ <b>Fuel</b> → coffee · curiosity · console.logs
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕹️ Games
+
+Browser games with:
+
+- Physics
+- Real-time interaction
+- Canvas / WebGL
+- Experimental mechanics
+- Small downloads
+- No unnecessary complexity
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 3D
+
+Exploring:
+
+- WebGL rendering
+- 3D scenes
+- Cameras
+- Materials
+- Lighting & shadows
+- Animation systems
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI
+
+Game AI experiments with:
+
+- Agents
+- Partial information
+- Tactical decisions
+- Multi-agent coordination
+- Difficulty systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Experiments
+
+I like building things that answer one question:
+
+**“What if we did it differently?”**
+
+</td>
+</tr>
 </table>
 
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
-
-<div align="center">
-
-## 🧰 `tech.stack`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,vscode,githubactions,markdown&theme=dark&perline=10" alt="tech skill icons" />
-
-<br>
-
-![](https://img.shields.io/badge/HTML5-Markup%20%2B%20DOM-A78BFA?style=flat-square&logo=html5&logoColor=A78BFA&labelColor=0D1117)
-![](https://img.shields.io/badge/CSS3-Layout%20%2B%20FX-A78BFA?style=flat-square&logo=css3&logoColor=A78BFA&labelColor=0D1117)
-![](https://img.shields.io/badge/JavaScript-Game%20Logic-A78BFA?style=flat-square&logo=javascript&logoColor=A78BFA&labelColor=0D1117)
-![](https://img.shields.io/badge/TypeScript-Type%20Safety-A78BFA?style=flat-square&logo=typescript&logoColor=A78BFA&labelColor=0D1117)
-![](https://img.shields.io/badge/Canvas-2D%20Render-A78BFA?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/WebGL-3D%20Shaders-A78BFA?style=flat-square&labelColor=0D1117)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+## 🧰 Tech
 
 <div align="center">
 
-## 📊 `stats.dashboard`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark" alt="skills"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsam92&theme=tokyonight" width="100%" alt="profile details card" />
+<br><br>
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsam92&theme=tokyonight" width="32.5%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsam92&theme=tokyonight" width="32.5%" alt="most commit language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsam92&theme=tokyonight&utcOffset=3.5" width="32.5%" alt="productive time" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arsam92&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_radius=12&hide_border=true" width="48.7%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsam92&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12&hide_border=true" width="48.7%" alt="top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=arsam92&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="70%" alt="GitHub streak stats" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-## 🏆 `trophies`
+<img src="https://github-readme-stats.vercel.app/api?username=arsam92&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=080B14&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&hide_border=true&border_radius=14" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsam92&layout=compact&langs_count=8&theme=tokyonight&bg_color=080B14&title_color=A78BFA&text_color=E5E7EB&hide_border=true&border_radius=14" width="49%" alt="Top languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arsam92&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="profile trophies" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=arsam92&theme=tokyonight&hide_border=true&background=080B14&stroke=7C3AED&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub streak"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
+
+## 🚧 Currently Building
 
 <div align="center">
 
-## 📈 `activity.stream`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsam92&theme=tokyo-night&area=true&area_color=7C3AED&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&hide_border=true&radius=12" width="100%" alt="contribution activity graph" />
+| Project | Direction | Status |
+|:---:|:---|:---:|
+| ⚡ **ARlun** | Game language + web ecosystem | 🧪 Designing |
+| 🌌 **3D Engine** | Browser WebGL experiments | 🔨 Building |
+| 🤖 **Game AI** | Agents + tactical behavior | 🧠 Researching |
+| 🎮 **Browser Games** | Physics + experimental gameplay | 🎮 Active |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-## 🐍 `contribution.snake`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<sub>⚠️ requires the snake workflow to be enabled (see comments below)</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsam92&theme=tokyo-night&bg_color=080B14&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
+
+## 🌐 Find Me
 
 <div align="center">
 
-## 🎮 `featured.games`
+[![GitHub](https://img.shields.io/badge/Explore%20my%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92)
 
-| 🎮 Game | 📝 Description | 🧰 Tech | 🛰️ Status |
-| :---: | :--- | :---: | :---: |
-| 🪐 **[Orbital](https://github.com/arsam92/Orbital)** | Gravity puzzle — sling mass, bend light, escape the void | `Canvas` · `JS` | ![](https://img.shields.io/badge/Active-A78BFA?style=flat-square&labelColor=0D1117) |
-| 🌑 **[ASHFALL](https://github.com/arsam92/ASHFALL)** | Narrative adventure — choices echo through the ash | `TypeScript` · `Canvas` | ![](https://img.shields.io/badge/Active-A78BFA?style=flat-square&labelColor=0D1117) |
-| ⚽ **[Chaos Soccer](https://github.com/arsam92/Chaos-Soccer)** | 2v2 physics brawl — kick, collide, score, scream | `Canvas` · `Physics` | ![](https://img.shields.io/badge/Active-A78BFA?style=flat-square&labelColor=0D1117) |
-| 🌌 **[Solar System](https://github.com/arsam92/Solar-System)** | 3D WebGL tour — fly through a hand-built cosmos | `WebGL` · `3D` | ![](https://img.shields.io/badge/Active-A78BFA?style=flat-square&labelColor=0D1117) |
-| 🏓 **[PINGPONG](https://github.com/arsam92/PINGPONG)** | Arcade classic — you vs the wall, forever | `Canvas` · `Retro` | ![](https://img.shields.io/badge/Active-A78BFA?style=flat-square&labelColor=0D1117) |
+[![Repositories](https://img.shields.io/badge/All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92?tab=repositories)
 
-<br>
+<br><br>
 
-[![Explore All Repos](https://img.shields.io/badge/Explore%20All%20Repos-%F0%9F%94%8D-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117)](https://github.com/arsam92?tab=repositories)
-[![Visit My Site](https://img.shields.io/badge/Visit%20My%20Site-%F0%9F%8C%90-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0D1117)](https://arsam92.github.io/my-site)
+### ⭐ If you find something interesting, leave a star.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
+---
 
 <div align="center">
 
-## ⏳ `currently`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:080B14,45:141B2D,75:6D28D9,100:080B14&text=BUILD%20SOMETHING%20WEIRD.&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer"/>
 
-| 🚧 Working On | 📚 Learning | 🎯 Goal |
-| :---: | :---: | :---: |
-| 🎮 Game feel<br>🧲 Physics tuning<br>📖 Narrative design | 🌀 Game physics<br>🌱 Procedural generation | 🚀 Ship tiny games with huge vibes — all in one tab 👾 |
+**⚡ One idea. One commit. One experiment at a time.**
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
-
-<div align="center">
-
-## 💭 `quote.of.the.day`
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
-
-<div align="center">
-
-## 🌐 `connect`
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40arsam92-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117)](https://github.com/arsam92)
-[![Website](https://img.shields.io/badge/Website-my--site-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0D1117)](https://arsam92.github.io/my-site)
-[![Repos](https://img.shields.io/badge/Repos-All%20Projects-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117)](https://github.com/arsam92?tab=repositories)
-
-<br>
-
-<sub>📧 <code>habibifinance@gmail.com</code> · open for indie collabs & game jams 🎲</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
-
-<div align="center">
-
-## 💜 `support`
-
-[![Star a Repo](https://img.shields.io/badge/Star%20a%20Repo-%E2%AD%90-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117)](https://github.com/arsam92?tab=repositories)
-[![Follow Me](https://img.shields.io/badge/Follow%20Me-%F0%9F%92%9C-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117)](https://github.com/arsam92)
-[![Say Hi](https://img.shields.io/badge/Say%20Hi-%F0%9F%92%AC-A78BFA?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117)](mailto:habibifinance@gmail.com)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider" />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,25:A78BFA,50:7C3AED,75:A78BFA,100:0D1117&text=Thanks%20for%20visiting&fontSize=30&fontColor=A78BFA&animation=fadeIn" width="100%" alt="thanks for visiting footer" />
-
-⚔️ <b>peace-seeker, war-seeker</b> — one commit at a time.
-
-<sub>Made with 💜, caffeine, and one too many console.logs.</sub>
-
-</div>
-
-<!--
-════════════════════════════════════════════════════════════════
-  SNAKE WORKFLOW — paste into .github/workflows/snake.yml
-  to enable the snake animation
-════════════════════════════════════════════════════════════════
-
-  name: generate-snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"    # runs daily at 00:00 UTC
-    workflow_dispatch:       # allows manual runs
-    push:
-      branches: [main]
-
-  permissions:
-    contents: write
-
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout repository
-          uses: actions/checkout@v4
-
-        - name: Generate snake SVGs
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: arsam92
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - name: Push snake to the output branch
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-```
