@@ -1,189 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B14,45:141B2D,75:6D28D9,100:080B14&text=ARSAM&fontSize=82&fontColor=FFFFFF&fontAlignY=36&desc=GAME%20DEV%20%7C%20WEBGL%20%7C%20ARLUN&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="ARSAM"/>
-
-# ⚡ ARSAM
-
-### Building games, engines, and ideas for the web.
-
-[![GitHub](https://img.shields.io/badge/GitHub-arsam92-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92)
-[![ARlun](https://img.shields.io/badge/Project-ARlun-7C3AED?style=for-the-badge)](https://github.com/arsam92?tab=repositories)
-[![Web](https://img.shields.io/badge/Web-First-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/arsam92)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050509,45:0B1020,75:1A1033,100:050509&text=ARSAM&fontSize=92&fontColor=FFFFFF&fontAlignY=38&desc=CREATING%20MY%20OWN%20WAY&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Arsam"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=Game+Development+%E2%9C%A6;WebGL+%26+3D+Experiments+%F0%9F%8C%8C;Designing+ARlun+%E2%9A%A1;AI+Agents+%26+Game+Intelligence+%F0%9F%A4%96;Build.+Break.+Rebuild.+%F0%9F%94%A5" alt="typing"/>
+<a href="https://github.com/arsam92"><img src="https://img.shields.io/badge/GitHub-arsam92-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<a href="mailto:habibifinance@gmail.com"><img src="https://img.shields.io/badge/Email-habibifinance%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=850&color=FFFFFF&center=true&vCenter=true&width=760&height=55&lines=GAME+DEVELOPER;WEBGL+%7C+3D+%7C+BROWSER+TECHNOLOGY;DESIGNING+ARLUN;AI+%26+GAME+INTELLIGENCE;I+LIKE+BUILDING+THINGS+FROM+ZERO" alt="Typing"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## whoami
 
-I'm **Arsam** — a developer focused on building things that run directly in the browser.
+I'm **Arsam**.
 
-My current interests:
+I'm interested in programming, game development, 3D graphics, browser technology, artificial intelligence, and designing new ways to build software.
 
-- 🎮 **Game development**
-- 🌌 **3D & WebGL**
-- ⚡ **Browser-first technology**
-- 🤖 **AI agents & game intelligence**
-- 🧩 **Programming language design**
-- 🚀 Turning weird ideas into playable experiments
+I don't just want to use existing tools.
 
-> **Don't just use the tools. Build the tools.**
+**I want to understand them, change them, and eventually build my own.**
 
 ---
 
 ## ⚡ ARlun
 
-### A programming language I'm designing for games & the web.
+**ARlun** is my own programming language and ecosystem that I'm designing around **games and the web**.
 
-**ARlun** is my long-term experiment: a custom language and ecosystem designed around browser-based game development.
+The idea is to create something that doesn't simply copy the syntax and philosophy of existing languages.
 
-The goal is simple:
+I'm exploring:
 
-> Make game development feel different.
+- 🎮 Game development
+- 🌌 3D rendering & WebGL
+- 🎬 Animation systems
+- 🌍 Scenes, cameras, physics & materials
+- 🤖 AI agents and game intelligence
+- 🧠 Multi-agent decision making
+- 🌐 Browser-first technology
+- 🧩 Programming language design
 
-### What I'm exploring
+ARlun is not just a language idea for me.
 
-`3D Rendering` · `WebGL` · `Scenes` · `Physics` · `Animation` · `AI Agents` · `Game Logic`
-
-I'm especially interested in AI that behaves like an actual agent — with limited information, decisions, coordination, and different levels of intelligence.
-
----
-
-## 🎮 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🕹️ Games
-
-Browser games with:
-
-- Physics
-- Real-time interaction
-- Canvas / WebGL
-- Experimental mechanics
-- Small downloads
-- No unnecessary complexity
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 3D
-
-Exploring:
-
-- WebGL rendering
-- 3D scenes
-- Cameras
-- Materials
-- Lighting & shadows
-- Animation systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI
-
-Game AI experiments with:
-
-- Agents
-- Partial information
-- Tactical decisions
-- Multi-agent coordination
-- Difficulty systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Experiments
-
-I like building things that answer one question:
-
-**“What if we did it differently?”**
-
-</td>
-</tr>
-</table>
+**It's an experiment in building the kind of development environment I would actually want to use.**
 
 ---
 
-## 🧰 Tech
+## 🧠 How I Think About AI
+
+I'm especially interested in game AI that doesn't magically know everything.
+
+I want AI agents to have their own information, make decisions, reconsider actions, cooperate with other agents, and behave differently depending on their difficulty.
+
+The goal isn't simply:
+
+```text
+IF PLAYER → ATTACK
+```
+
+It's more like:
+
+```text
+OBSERVE → THINK → COMPARE → DECIDE → ACT
+```
+
+That way, AI becomes part of the gameplay rather than just a collection of scripted reactions.
+
+---
+
+## 🎮 What I Like Building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark" alt="skills"/>
+| Area | What interests me |
+|:---:|:---|
+| 🎮 **Games** | Experimental mechanics, physics, interaction |
+| 🌌 **3D** | WebGL, rendering, cameras, lighting, animation |
+| 🤖 **AI** | Agents, tactics, coordination, decision making |
+| 🧩 **Languages** | Designing syntax, concepts and developer tools |
+| 🌐 **Web** | Fast, browser-first experiences |
+| 🧪 **Experiments** | Trying ideas that don't already have an obvious answer |
+
+</div>
+
+---
+
+## 🛠️ My Direction
+
+I'm interested in the intersection of:
+
+**Programming × Games × 3D × AI × The Web**
+
+I like projects where I can go deeper than just writing application code — understanding how the pieces work and experimenting with my own approach.
+
+---
+
+## 🚀 Currently
+
+**Designing ARlun**  
+Building ideas around a browser-first game development ecosystem.
+
+**Exploring 3D**  
+Working toward rendering, scenes, animation, physics and game systems.
+
+**Exploring AI**  
+Thinking about agents that can observe, reason, cooperate and make tactical decisions.
+
+**Learning by building**  
+Most of my ideas become real when I start turning them into code.
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:habibifinance@gmail.com"><img src="https://img.shields.io/badge/habibifinance%40gmail.com-Contact%20Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 
 <br><br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arsam92&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=080B14&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&hide_border=true&border_radius=14" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsam92&layout=compact&langs_count=8&theme=tokyonight&bg_color=080B14&title_color=A78BFA&text_color=E5E7EB&hide_border=true&border_radius=14" width="49%" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=arsam92&theme=tokyonight&hide_border=true&background=080B14&stroke=7C3AED&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 🚧 Currently Building
-
-<div align="center">
-
-| Project | Direction | Status |
-|:---:|:---|:---:|
-| ⚡ **ARlun** | Game language + web ecosystem | 🧪 Designing |
-| 🌌 **3D Engine** | Browser WebGL experiments | 🔨 Building |
-| 🤖 **Game AI** | Agents + tactical behavior | 🧠 Researching |
-| 🎮 **Browser Games** | Physics + experimental gameplay | 🎮 Active |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsam92&theme=tokyo-night&bg_color=080B14&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Explore%20my%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92)
-
-[![Repositories](https://img.shields.io/badge/All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsam92?tab=repositories)
-
-<br><br>
-
-### ⭐ If you find something interesting, leave a star.
+<a href="https://github.com/arsam92"><img src="https://img.shields.io/badge/github.com%2Farsam92-Visit%20My%20GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
 
 </div>
 
@@ -191,8 +129,10 @@ I like building things that answer one question:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:080B14,45:141B2D,75:6D28D9,100:080B14&text=BUILD%20SOMETHING%20WEIRD.&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer"/>
+### **Build it. Break it. Understand it. Build it better.**
 
-**⚡ One idea. One commit. One experiment at a time.**
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050509,45:0B1020,75:1A1033,100:050509&animation=fadeIn" width="100%" alt="Footer"/>
 
 </div>
