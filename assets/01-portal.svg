@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+ <filter id="g"><feGaussianBlur stdDeviation="4"/></filter>
+ <radialGradient id="r"><stop stop-color="#E8FFE8"/><stop offset=".25" stop-color="#39FF14" stop-opacity=".8"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="300" rx="24" fill="#020603"/>
+
+<g transform="translate(500 152)" fill="none">
+ <circle r="78" stroke="#39FF14" stroke-width="2" stroke-dasharray="5 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/></circle>
+ <circle r="105" stroke="#7CFF68" stroke-opacity=".35" stroke-width="2"><animate attributeName="r" values="85;120;85" dur="2.5s" repeatCount="indefinite"/></circle>
+ <ellipse rx="145" ry="45" stroke="#39FF14" opacity=".5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="145" ry="45" stroke="#B6FF9F" opacity=".35" transform="rotate(60)"><animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="7s" repeatCount="indefinite"/></ellipse>
+ <circle r="32" fill="url(#r)" stroke="#39FF14"><animate attributeName="r" values="20;40;20" dur="1.4s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#39FF14"><circle cx="180" cy="100" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="1.5s" repeatCount="indefinite"/></circle><circle cx="810" cy="90" r="2"><animate attributeName="opacity" values="1;.1;1" dur="1.9s" repeatCount="indefinite"/></circle></g>
+<text x="500" y="35" fill="#39FF14" font-family="monospace" font-size="14" text-anchor="middle" letter-spacing="5">ARSAM // 3D PORTAL</text>
+<text x="500" y="278" fill="#7ACF7A" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">ACCESS • WORLD • ARLUN • ONLINE</text>
+<rect x="1" y="1" width="998" height="298" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
