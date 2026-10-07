@@ -7,9 +7,9 @@
 
 <a href="https://github.com/arsam92">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=ARSAM&fontSize=92&fontColor=39FF14&fontAlignY=38&desc=CODE%20%E2%80%A2%20GAMES%20%E2%80%A2%203D%20%E2%80%A2%20AI&descAlignY=63&descSize=20&animation=fadeIn&stroke=39FF14&strokeWidth=2&color=0:000000,45:031A0A,75:0A3B1C,100:000000"
+    src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-cyber-3d.svg"
     width="100%"
-    alt="ARSAM"
+    alt="Animated ARSAM cyber 3D interface"
   />
 </a>
 
@@ -129,6 +129,12 @@ world ARLUN {
 ### 🛠️ Long-term ARlun areas
 
 `Scenes` · `Physics` · `3D` · `Animation` · `Rendering` · `AI` · `Agents` · `Web` · `Game Logic`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arlun-3d-core.svg" width="90%" alt="Animated ARlun 3D core"/>
+
+</div>
 
 ---
 
@@ -400,6 +406,6 @@ ARlun is where many of these interests meet: a language and ecosystem aimed at m
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,35:031A0A,65:0A3B1C,100:000000&animation=fadeIn&stroke=39FF14&strokeWidth=2" width="100%" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-footer.svg" width="100%" alt="Animated cyber footer"/>
 
 </div>
