@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+ <filter id="g"><feGaussianBlur stdDeviation="4"/></filter>
+ <radialGradient id="r"><stop stop-color="#E8FFE8"/><stop offset=".25" stop-color="#39FF14" stop-opacity=".8"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="300" rx="24" fill="#020603"/>
+
+<g font-family="monospace" font-size="15" fill="#7ACF7A">
+ <text x="60" y="85">$ arsam boot --3d --ai</text>
+ <text x="60" y="120">[renderer] WebGL core ........ <tspan fill="#39FF14">ONLINE</tspan></text>
+ <text x="60" y="150">[physics] world solver ....... <tspan fill="#39FF14">ONLINE</tspan></text>
+ <text x="60" y="180">[agents] tactical network .... <tspan fill="#39FF14">ONLINE</tspan></text>
+ <text x="60" y="210">[arlun] runtime .............. <tspan fill="#39FF14">READY</tspan></text>
+</g>
+<rect x="60" y="235" width="310" height="8" rx="4" fill="#123115"/><rect x="60" y="235" width="0" height="8" rx="4" fill="#39FF14"><animate attributeName="width" values="0;310;0" dur="4s" repeatCount="indefinite"/></rect>
+<text x="500" y="35" fill="#39FF14" font-family="monospace" font-size="14" text-anchor="middle" letter-spacing="5">SYSTEM BOOT // ARSAM</text>
+<text x="500" y="278" fill="#7ACF7A" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">INITIALIZING WORLD...</text>
+<rect x="1" y="1" width="998" height="298" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
