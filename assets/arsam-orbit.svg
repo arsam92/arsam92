@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+<defs>
+<radialGradient id="sun"><stop stop-color="#E8FFE8"/><stop offset=".15" stop-color="#8DFF78"/><stop offset=".45" stop-color="#39FF14" stop-opacity=".75"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1000" height="320" rx="24" fill="#010301"/>
+<g transform="translate(500 160)">
+<circle r="55" fill="url(#sun)"/>
+<circle r="24" fill="#DFFFDA"/>
+<g fill="none" stroke="#39FF14">
+<ellipse rx="105" ry="38" opacity=".5"/>
+<ellipse rx="160" ry="58" opacity=".3" transform="rotate(28)"/>
+<ellipse rx="210" ry="78" opacity=".18" transform="rotate(-22)"/>
+</g>
+<g>
+<circle cx="105" cy="0" r="7" fill="#39FF14"/><circle cx="160" cy="0" r="6" fill="#7CFF68"/><circle cx="210" cy="0" r="5" fill="#C6FFBA"/>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.2s" repeatCount="indefinite"/>
+</g>
+<g>
+<circle cx="0" cy="-160" r="6" fill="#39FF14"/>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7.5s" repeatCount="indefinite"/>
+</g>
+</g>
+<text x="500" y="38" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="14" letter-spacing="5">ARLUN // WORLD ORBIT</text>
+<text x="500" y="295" text-anchor="middle" fill="#7ACF7A" font-family="monospace" font-size="12">GAMES • 3D • WEB • PHYSICS • AI</text>
+<rect x="1" y="1" width="998" height="318" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
