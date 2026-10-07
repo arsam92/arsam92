@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g"><stop stop-color="#39FF14" stop-opacity=".35"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient>
+    <filter id="b"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect width="900" height="320" rx="24" fill="#020603"/>
+  <ellipse cx="450" cy="160" rx="180" ry="125" fill="url(#g)"/>
+  <g transform="translate(450 160)" fill="none" stroke="#39FF14">
+    <ellipse rx="170" ry="58" opacity=".18">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="150" ry="48" opacity=".35" transform="rotate(55)">
+      <animateTransform attributeName="transform" type="rotate" from="55" to="415" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle r="72" stroke-width="2" stroke-dasharray="5 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke-width="2">
+      <path d="M-50-50 L50-50 L50 50 L-50 50 Z"/>
+      <path d="M-25-25 L75-25 L75 75 L-25 75 Z" opacity=".55"/>
+      <path d="M-50-50 L-25-25 M50-50 L75-25 M50 50 L75 75 M-50 50 L-25 75"/>
+    </g>
+    <circle r="10" fill="#E8FFE8" filter="url(#b)">
+      <animate attributeName="r" values="7;14;7" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="450" y="42" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="13" letter-spacing="5">ARLUN // 3D CORE</text>
+  <text x="450" y="292" text-anchor="middle" fill="#7ACF7A" font-family="monospace" font-size="12">SCENES • PHYSICS • ANIMATION • AI • WEB</text>
+  <rect x="1" y="1" width="898" height="318" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
