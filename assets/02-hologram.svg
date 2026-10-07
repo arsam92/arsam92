@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+ <filter id="g"><feGaussianBlur stdDeviation="4"/></filter>
+ <radialGradient id="r"><stop stop-color="#E8FFE8"/><stop offset=".25" stop-color="#39FF14" stop-opacity=".8"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="300" rx="24" fill="#020603"/>
+
+<g transform="translate(500 150)" fill="none" stroke="#39FF14">
+ <path d="M-75-60 L75-60 L95 55 L0 90 L-95 55 Z" stroke-width="2"/>
+ <path d="M-75-60 L0-20 L75-60 M0-20 L0 90" opacity=".5"/>
+ <g opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+ <ellipse cy="-15" rx="130" ry="38"/><ellipse cy="-15" rx="130" ry="38" transform="rotate(60)"/><ellipse cy="-15" rx="130" ry="38" transform="rotate(120)"/></g>
+ <circle r="25" fill="url(#r)"><animate attributeName="r" values="18;32;18" dur="1.7s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#39FF14" font-family="monospace" font-size="12"><text x="95" y="80">SCENE</text><text x="820" y="80">PHYSICS</text><text x="100" y="225">ANIMATION</text><text x="795" y="225">RENDER</text></g>
+<text x="500" y="35" fill="#39FF14" font-family="monospace" font-size="14" text-anchor="middle" letter-spacing="5">ARLUN // HOLOGRAM CORE</text>
+<text x="500" y="278" fill="#7ACF7A" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">LANGUAGE • ENGINE • WORLD</text>
+<rect x="1" y="1" width="998" height="298" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
