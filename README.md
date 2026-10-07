@@ -1,23 +1,19 @@
 <!--
-  ARSAM // PROFILE README
-  Neon / Cyber / Builder Edition
+  ARSAM // UNKNOWN SYSTEM
+  CYBER 3D / GAME AI / ARLUN LAB
 -->
 
 <div align="center">
 
 <a href="https://github.com/arsam92">
-  <img
-    src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-cyber-3d.svg"
-    width="100%"
-    alt="Animated ARSAM cyber 3D interface"
-  />
-</a>
-
-<a href="https://github.com/arsam92">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=850&height=55&lines=GAME+DEVELOPER+%F0%9F%8E%AE;WEBGL+%2F+3D+EXPLORER+%F0%9F%8C%8C;DESIGNING+ARLUN+%E2%9A%A1;AI+AGENTS+%26+GAME+INTELLIGENCE+%F0%9F%A4%96;BUILDING+IDEAS+INTO+REAL+SYSTEMS+%F0%9F%9A%80" alt="Typing intro"/>
+  <img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/01-portal.svg" width="100%" alt="Animated ARSAM 3D portal"/>
 </a>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=900&height=58&lines=GAME+DEVELOPER+%F0%9F%8E%AE;3D+%2B+WEBGL+EXPLORER+%F0%9F%8C%8C;DESIGNING+ARLUN+%E2%9A%A1;AI+AGENTS+%26+TACTICAL+SYSTEMS+%F0%9F%A4%96;CYBERSECURITY+%2F+WHITE-HAT+%F0%9F%9F%A2;BUILDING+FROM+ZERO+%F0%9F%9A%80" alt="ARSAM animated roles"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=arsam92&label=PROFILE+VIEWS&style=for-the-badge&color=39FF14&labelColor=050805" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/arsam92?label=FOLLOWERS&style=for-the-badge&color=39FF14&labelColor=050805&logo=github&logoColor=050805" alt="Followers"/>
@@ -28,11 +24,11 @@
 <a href="https://github.com/arsam92">
   <img src="https://img.shields.io/badge/GITHUB-arsam92-39FF14?style=for-the-badge&logo=github&logoColor=050805&labelColor=020603" alt="GitHub"/>
 </a>
-<a href="mailto:habibifinance@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=050805&labelColor=020603" alt="Email"/>
-</a>
 <a href="https://github.com/arsam92?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-VIEW_ALL-39FF14?style=for-the-badge&logo=gitbook&logoColor=050805" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-39FF14?style=for-the-badge&logo=gitbook&logoColor=050805" alt="Repositories"/>
+</a>
+<a href="mailto:habibifinance@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=050805" alt="Contact"/>
 </a>
 
 </div>
@@ -41,96 +37,94 @@
 
 <div align="center">
 
-> **I don't want to only use tools. I want to build the tools.**
+> **I don't just want to use systems. I want to understand them, break them safely, and build better ones.**
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 🌌 ARSAM ANIMATION LAB
+## 👋 WHO I AM
+
+I'm **Arsam** — a builder focused on **game development, browser technology, 3D graphics, AI agents, cybersecurity, Linux, and developer tools**.
+
+I like projects that sit between engineering and experimentation: build the system, understand how it behaves, test it, break it safely, then improve it.
+
+### 🧭 My main directions
+
+| 🎮 Games | 🌌 3D + Web | 🤖 AI | 🛡️ Cybersecurity |
+|---|---|---|---|
+| Gameplay systems | WebGL | AI agents | White-hat security |
+| Physics | Rendering | Tactical reasoning | Ethical pentesting |
+| Interaction | Animation | Multi-agent coordination | CTF / security labs |
+| Multiplayer | Shaders | Decision systems | Linux / networking |
+
+> 🛡️ **Security mindset:** I focus on **authorized testing**, ethical security research, CTFs, lab environments, and learning how systems can be secured.  
+> **TryHackMe • Linux • Web Security • Networking • Enumeration • Vulnerability Research • Defensive Thinking**
+
+---
+
+## 🌌 ARSAM // ANIMATION LAB
+
+This profile isn't meant to be a static wall of text.
+
+It has its own **motion layer**.
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/01-portal.svg" width="100%" alt="3D Portal"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/02-hologram.svg" width="100%" alt="ARlun Hologram"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/03-neural-universe.svg" width="100%" alt="Neural Universe"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/04-ai-agents.svg" width="100%" alt="AI Agents"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/05-boot.svg" width="100%" alt="System Boot"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/06-matrix.svg" width="100%" alt="Matrix Rain"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/07-reactor.svg" width="100%" alt="Energy Reactor"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/08-solar.svg" width="100%" alt="ARlun Solar System"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/09-hud.svg" width="100%" alt="Game HUD"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/10-scanner.svg" width="100%" alt="Security Scanner"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/11-dna.svg" width="100%" alt="Code Helix"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/12-deep-space.svg" width="100%" alt="Deep Space"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/13-ai-brain.svg" width="100%" alt="AI Brain"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/14-energy-snake.svg" width="100%" alt="Energy Snake"/></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/15-secret-terminal.svg" width="75%" alt="Secret Terminal"/></td>
+</tr>
+</table>
+
+---
+
+## ⚡ ARLUN — MY LANGUAGE / MY WORLD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-reactor.svg" width="49%" alt="Animated 3D core reactor"/>
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-orbit.svg" width="49%" alt="Animated ARlun orbital system"/>
+<img src="https://img.shields.io/badge/ARLUN-BROWSER--FIRST-39FF14?style=for-the-badge&labelColor=020603" alt="ARlun browser first"/>
+<img src="https://img.shields.io/badge/GAMES-3D-39FF14?style=for-the-badge&labelColor=020603" alt="Games 3D"/>
+<img src="https://img.shields.io/badge/AI-AGENTS-39FF14?style=for-the-badge&labelColor=020603" alt="AI agents"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DESIGN-39FF14?style=for-the-badge&labelColor=020603" alt="In design"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-ai-network.svg" width="49%" alt="Animated AI agent network"/>
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-matrix.svg" width="49%" alt="Animated cyber matrix"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/02-hologram.svg" width="92%" alt="ARlun animated hologram"/>
 
 </div>
 
-<div align="center">
+**ARlun** is my attempt to design a programming language and ecosystem around the things I care about most: **games, web, 3D, animation, physics, scenes, rendering, and AI**.
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-terminal.svg" width="90%" alt="Animated ARlun terminal boot sequence"/>
+The idea is to make it feel like its **own world**, rather than simply copying a familiar language.
 
-</div>
-
-> **A profile should feel alive.**  
-> Motion, systems, games, 3D worlds, and agents — that's the direction.
-
----
-
-## 👋 WHO I AM
-
-I'm **Arsam** — a builder focused on **programming, game development, browser technology, 3D graphics, AI, and developer tools**.
-
-I enjoy taking ideas from a rough concept to something that can actually run, be tested, and evolve.
-
-My current interests revolve around one question:
-
-> **What happens when games, the browser, 3D systems, and intelligent agents are designed as one ecosystem?**
-
-### 🔭 What I care about
-
-| 🎮 Games | 🌌 3D & Web | 🤖 AI | 🧩 Tools |
-|---|---|---|---|
-| Gameplay systems | WebGL | AI agents | Languages |
-| Physics | Rendering | Tactics | Developer tooling |
-| Interaction | Animation | Coordination | Compilers |
-| Multiplayer ideas | Shaders | Decision systems | Experiments |
-
----
-
-## ⚡ ARLUN — A LANGUAGE I'M DESIGNING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT-ARLUN-39FF14?style=for-the-badge&labelColor=020603" alt="ARlun project"/>
-<img src="https://img.shields.io/badge/FOCUS-GAMES%20%2B%20WEB-39FF14?style=for-the-badge&labelColor=020603" alt="Games and Web"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DESIGN-39FF14?style=for-the-badge&labelColor=020603" alt="In design"/>
-
-</div>
-
-**ARlun** is one of my biggest ideas: a **browser-first programming language and ecosystem** centered around **games, web technology, 3D, animation, physics, scenes, and AI**.
-
-The goal isn't to make another familiar syntax with a new name.
-
-> **The goal is to make ARlun feel like its own world.**
-
-### 🌐 The vision
-
-```text
-                ┌──────────────────────────┐
-                │          ARLUN           │
-                └────────────┬─────────────┘
-                             │
-         ┌───────────────────┼───────────────────┐
-         ▼                   ▼                   ▼
-   ┌───────────┐       ┌───────────┐       ┌───────────┐
-   │   GAMES   │       │    3D     │       │    WEB    │
-   └─────┬─────┘       └─────┬─────┘       └─────┬─────┘
-         │                   │                   │
-         └───────────────────┼───────────────────┘
-                             ▼
-                    ┌────────────────┐
-                    │      AI        │
-                    │    SYSTEMS     │
-                    └────────────────┘
-```
-
-### 🧪 Concept syntax
+### 🧪 Concept
 
 ```arlun
 world ARLUN {
@@ -151,78 +145,96 @@ world ARLUN {
 }
 ```
 
-### 🛠️ Long-term ARlun areas
-
-`Scenes` · `Physics` · `3D` · `Animation` · `Rendering` · `AI` · `Agents` · `Web` · `Game Logic`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arlun-3d-core.svg" width="90%" alt="Animated ARlun 3D core"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-orbit.svg" width="92%" alt="Animated ARlun world orbit"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/08-solar.svg" width="100%" alt="ARlun animated world orbit"/>
 
 ---
 
 ## 🧠 GAME AI — DECISION OVER SCRIPT
 
-One of the areas I care about most is **game AI that behaves like a decision system**, not just a giant chain of scripted reactions.
-
-### Decision loop
+I am interested in game AI that **observes, evaluates, coordinates, and adapts** instead of being one huge scripted switch.
 
 ```text
-             ┌──────────────┐
-             │   OBSERVE    │
-             │  world state │
-             └──────┬───────┘
-                    ▼
-             ┌──────────────┐
-             │    THINK     │
-             │   evaluate   │
-             └──────┬───────┘
-                    ▼
-             ┌──────────────┐
-             │   COMPARE    │
-             │   options    │
-             └──────┬───────┘
-                    ▼
-             ┌──────────────┐
-             │  COORDINATE  │
-             │ other agents │
-             └──────┬───────┘
-                    ▼
-             ┌──────────────┐
-             │    DECIDE    │
-             └──────┬───────┘
-                    ▼
-             ┌──────────────┐
-             │     ACT      │
-             └──────────────┘
+OBSERVE
+   ↓
+THINK
+   ↓
+COMPARE
+   ↓
+COORDINATE
+   ↓
+DECIDE
+   ↓
+ACT
+   ↺
 ```
-
-### 🤖 What I want from an agent
-
-An agent should be able to:
-
-- 🧩 work from **its own information**
-- 🎯 **evaluate** what is happening
-- 🔄 **reconsider** before acting
-- 🤝 **coordinate** with other agents
-- 🎚️ change behavior with **difficulty**
-- 🧠 choose between multiple possible actions instead of always following one fixed response
-
-That turns game AI from a scripted switch into a **system of decisions**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-ai-network.svg" width="92%" alt="Animated multi-agent network"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/04-ai-agents.svg" width="92%" alt="Animated multi-agent tactical network"/>
 
 </div>
+
+### 🤖 Agent principles
+
+- Own information instead of omniscient knowledge
+- Multiple possible actions
+- Reconsideration before committing
+- Cooperation between agents
+- Difficulty that changes behavior
+- Tactical decision-making over fixed reactions
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/13-ai-brain.svg" width="92%" alt="Animated AI decision brain"/>
+
+---
+
+## 🛡️ CYBERSECURITY // WHITE-HAT LAB
+
+Cybersecurity is another direction I'm actively interested in.
+
+### 🔐 Areas I want this profile to represent
+
+`Linux` · `Networking` · `Web Security` · `Ethical Pentesting` · `CTFs` · `TryHackMe Labs` · `Enumeration` · `Vulnerability Research` · `Security Mindset`
+
+### 🎯 Lab philosophy
+
+**Learn → Enumerate → Understand → Test → Document → Secure**
+
+I use the **white-hat mindset**: test systems only where I have authorization, and use the result to understand weaknesses and improve security.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/10-scanner.svg" width="92%" alt="Animated ethical security scanner"/>
+
+</div>
+
+---
+
+## 🐧 ARSAM-LINUX // CUSTOM TERMINAL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/16-linux-terminal.svg" width="96%" alt="Custom ARSAM Linux terminal"/>
+
+</div>
+
+### Terminal identity
+
+```text
+┌──(arsam㉿arlun)-[~]
+└─$ whoami
+arsam // white-hat builder
+
+└─$ focus --labs
+linux • web • network • ctf
+
+└─$ practice --platform
+TryHackMe • authorized labs
+
+└─$ ./arlun --cyber-mode
+ACCESS: GRANTED
+```
+
+> **ARSAM-LINUX** is a custom visual terminal identity for the profile — a cyber / Linux themed layer around the ARlun lab concept.
 
 ---
 
@@ -230,67 +242,41 @@ That turns game AI from a scripted switch into a **system of decisions**.
 
 <div align="center">
 
-| 🎮 GAMES | 🌌 3D | 🤖 AI | 🧩 TOOLS |
-|:---:|:---:|:---:|:---:|
-| Gameplay | WebGL | Agents | Languages |
-| Physics | Rendering | Tactics | Developer Tools |
-| Interaction | Animation | Coordination | Compilers |
-| Multiplayer | Shaders | Behavior Systems | Experiments |
+| 🎮 GAMES | 🌌 3D | 🤖 AI | 🛡️ SECURITY | 🧩 TOOLS |
+|:---:|:---:|:---:|:---:|:---:|
+| Gameplay | WebGL | Agents | White-Hat | Languages |
+| Physics | Rendering | Tactics | Pentesting | Developer Tools |
+| Interaction | Animation | Coordination | CTFs | Compilers |
+| Multiplayer | Shaders | Decisions | Linux | Experiments |
 
 </div>
 
 ---
 
-## 🛠️ TECH & FOCUS
+## 🧩 SYSTEM MAP
 
 <div align="center">
 
-### Languages & Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&theme=dark" alt="Languages and tools"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-39FF14?style=for-the-badge&logo=javascript&logoColor=050805&labelColor=020603" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-39FF14?style=for-the-badge&logo=typescript&logoColor=050805&labelColor=020603" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/WEBGL-39FF14?style=for-the-badge&logo=webgl&logoColor=050805&labelColor=020603" alt="WebGL"/>
-<img src="https://img.shields.io/badge/3D-39FF14?style=for-the-badge&logo=blender&logoColor=050805&labelColor=020603" alt="3D"/>
-<img src="https://img.shields.io/badge/GAME_DEV-39FF14?style=for-the-badge&logo=unity&logoColor=050805&labelColor=020603" alt="Game development"/>
-<img src="https://img.shields.io/badge/AI-39FF14?style=for-the-badge&logo=openai&logoColor=050805&labelColor=020603" alt="AI"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/03-neural-universe.svg" width="94%" alt="Animated system map"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-reactor.svg" width="92%" alt="Animated system reactor"/>
-
-</div>
-
----
-
-## 🚀 FEATURED WORK
-
-<div align="center">
-
-<a href="https://github.com/arsam92/-solar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=-solar&theme=chartreuse-dark&hide_border=true" alt="-solar repository card"/>
-</a>
-<a href="https://github.com/arsam92/game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=game&theme=chartreuse-dark&hide_border=true" alt="game repository card"/>
-</a>
-
-<a href="https://github.com/arsam92/chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=chat&theme=chartreuse-dark&hide_border=true" alt="chat repository card"/>
-</a>
-<a href="https://github.com/arsam92/minecrft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=minecrft&theme=chartreuse-dark&hide_border=true" alt="minecrft repository card"/>
-</a>
-
-</div>
-
-> More experiments and projects are available on my repositories page.
-
-[**→ Explore all repositories**](https://github.com/arsam92?tab=repositories)
+```text
+                    ┌───────────────┐
+                    │     ARLUN     │
+                    └───────┬───────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+       GAMES              3D                WEB
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                           AI
+                            │
+                            ▼
+                       CYBER LAB
+```
 
 ---
 
@@ -314,35 +300,43 @@ That turns game AI from a scripted switch into a **system of decisions**.
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE // EVOLUTION
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=EAT+THE+CONTRIBUTIONS.;KEEP+CODING.;ONE+COMMIT+AT+A+TIME." alt="Snake caption"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/14-energy-snake.svg" width="86%" alt="Animated energy snake"/>
 
 </div>
 
 ---
 
-## 🏆 GITHUB HIGHLIGHTS
+## 🚀 FEATURED WORK
 
 <div align="center">
 
-<a href="https://github.com/arsam92?tab=repositories">
-  <img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-39FF14?style=for-the-badge&labelColor=020603" alt="Building projects"/>
+<a href="https://github.com/arsam92/-solar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=-solar&theme=chartreuse-dark&hide_border=true" alt="-solar"/>
 </a>
-<a href="https://github.com/arsam92?tab=stars">
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-EXPLORATION-39FF14?style=for-the-badge&labelColor=020603" alt="Open source exploration"/>
+<a href="https://github.com/arsam92/game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=game&theme=chartreuse-dark&hide_border=true" alt="game"/>
 </a>
-<a href="https://github.com/arsam92">
-  <img src="https://img.shields.io/badge/FOCUS-GAMES%20%2B%203D%20%2B%20AI-39FF14?style=for-the-badge&labelColor=020603" alt="Games 3D and AI"/>
+
+<br/>
+
+<a href="https://github.com/arsam92/chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=chat&theme=chartreuse-dark&hide_border=true" alt="chat"/>
+</a>
+<a href="https://github.com/arsam92/minecrft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsam92&repo=minecrft&theme=chartreuse-dark&hide_border=true" alt="minecrft"/>
 </a>
 
 </div>
+
+[**→ Explore all repositories**](https://github.com/arsam92?tab=repositories)
 
 ---
 
@@ -350,78 +344,17 @@ That turns game AI from a scripted switch into a **system of decisions**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-matrix.svg" width="94%" alt="Animated cyber matrix"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/09-hud.svg" width="94%" alt="Animated builder HUD"/>
 
 </div>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                     CURRENT BUILD QUEUE                      ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ARLUN        ████████████████████░░   DESIGN               ║
-║  WEB GAMES    ██████████████████░░░░   BUILD                ║
-║  3D           ███████████████░░░░░░░   EXPLORE              ║
-║  GAME AI      ██████████████░░░░░░░░   EXPERIMENT            ║
-║  DEV TOOLS    ████████████░░░░░░░░░░   PROTOTYPE            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+[ ARLUN        ] ████████████████████░░  DESIGN
+[ 3D           ] ███████████████░░░░░░  EXPLORE
+[ GAME AI      ] ██████████████░░░░░░░░  EXPERIMENT
+[ CYBER LAB    ] ████████████░░░░░░░░░░  PRACTICE
+[ WEB GAMES    ] ██████████████████░░░░  BUILD
 ```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=700&color=39FF14&center=true&vCenter=true&width=760&height=45&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+BUILD+AGAIN;MAKE+IT+REAL.;SHIP%2C+TEST%2C+IMPROVE." alt="Build loop"/>
-
-</div>
-
----
-
-## 🧪 SELECTED PROJECTS
-
-A few repositories that represent different parts of what I build:
-
-| Project | Type | What it is |
-|---|---|---|
-| [`-solar`](https://github.com/arsam92/-solar) | 🌞 Simulation | Solar-system experiment |
-| [`arsam.github.io`](https://github.com/arsam92/arsam.github.io) | 🌐 Web | Personal site |
-| [`chat`](https://github.com/arsam92/chat) | 💬 App | Chat project |
-| [`game`](https://github.com/arsam92/game) | 🎮 Game | Game project |
-| [`minecrft`](https://github.com/arsam92/minecrft) | ⛏️ Game | Voxel-style experiment |
-| [`spiderweb`](https://github.com/arsam92/spiderweb) | 🕷️ Web | Web experiment |
-| [`claude-and-grok`](https://github.com/arsam92/claude-and-grok) | 🤖 AI | AI experiments |
-| [`PINGPONG`](https://github.com/arsam92/PINGPONG) | 🏓 Game | Classic game project |
-
----
-
-## 💬 A LITTLE MORE ABOUT THE WORK
-
-<details>
-<summary><strong>🎮 Games</strong></summary>
-
-I like game systems where mechanics, interaction, physics, and AI can grow together rather than being isolated pieces.
-
-</details>
-
-<details>
-<summary><strong>🌌 3D + Browser</strong></summary>
-
-I'm especially interested in bringing 3D systems to the browser through WebGL, interactive scenes, rendering, animation, and developer-friendly tooling.
-
-</details>
-
-<details>
-<summary><strong>🤖 AI Agents</strong></summary>
-
-The interesting part of AI for me is not simply generating a response. It's building agents that have limited information, evaluate possibilities, cooperate, and make decisions.
-
-</details>
-
-<details>
-<summary><strong>⚡ ARlun</strong></summary>
-
-ARlun is where many of these interests meet: a language and ecosystem aimed at making game and web development feel like one connected environment.
-
-</details>
 
 ---
 
@@ -429,7 +362,11 @@ ARlun is where many of these interests meet: a language and ecosystem aimed at m
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-terminal.svg" width="92%" alt="Animated terminal boot sequence"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/15-secret-terminal.svg" width="92%" alt="Animated secret terminal"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/05-boot.svg" width="92%" alt="Animated system boot"/>
 
 </div>
 
@@ -449,7 +386,7 @@ ARlun is where many of these interests meet: a language and ecosystem aimed at m
 
 <br/><br/>
 
-**Open to interesting ideas, experiments, and collaboration.**
+**Build. Test. Break safely. Learn. Build again.**
 
 </div>
 
@@ -457,11 +394,11 @@ ARlun is where many of these interests meet: a language and ecosystem aimed at m
 
 <div align="center">
 
-### ⚡ BUILD → BREAK → LEARN → BUILD AGAIN ⚡
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/12-deep-space.svg" width="100%" alt="Animated deep space closing panel"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=45&lines=ARSAM+OUT.;SEE+YOU+IN+THE+NEXT+COMMIT.;KEEP+BUILDING." alt="Closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=45&lines=ARSAM+OUT.;KEEP+BUILDING.;KEEP+EXPLORING.;SEE+YOU+IN+THE+NEXT+COMMIT." alt="Closing animation"/>
 
 <br/><br/>
 
