@@ -5,6 +5,9 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/refs/heads/main/assets/Neon%20Cyberpunk%20Portfolio%20Dashboard.png" width="100%" alt="ARSAM Full Overview"/>
+<br/><br/>
+
 <a href="https://github.com/arsam92">
   <img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/01-portal.svg" width="100%" alt="Animated ARSAM 3D portal"/>
 </a>
