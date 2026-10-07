@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs><filter id="g"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<rect width="1000" height="300" rx="24" fill="#020603"/>
+<g font-family="monospace" font-size="13" fill="#39FF14" opacity=".9">
+<text x="20" y="20">01100101 10011010 0110 101101 0101</text>
+<text x="110" y="-10">101011 00110101 101 010010 1101</text>
+<text x="230" y="40">ARLUN 01 1101 001  GAME 10110</text>
+<text x="350" y="-5">010101 1110 0011 10101 011</text>
+<text x="500" y="30">AI 0101 AGENT 111001 01010</text>
+<text x="680" y="-8">110011 0101 100101 001 1110</text>
+<text x="820" y="48">3D 101010 00011 11010</text>
+<text x="40" y="110">101001 110101 001011 10101</text>
+<text x="170" y="160">010110 001011 111001 010</text>
+<text x="300" y="120">001101 110010 010101 111</text>
+<text x="470" y="180">100101 011101 001 110010</text>
+<text x="650" y="135">101010 111000 0101 101</text>
+<text x="820" y="175">010011 101101 001011</text>
+<text x="70" y="250">ARSLAB // SYSTEM ONLINE // BUILD MODE</text>
+<text x="460" y="280">01010101 11010010 0110 1010</text>
+</g>
+<g fill="#C6FFBA" filter="url(#g)">
+<circle cx="120" cy="70" r="2"/><circle cx="260" cy="210" r="2"/><circle cx="415" cy="60" r="2"/><circle cx="560" cy="240" r="2"/><circle cx="760" cy="75" r="2"/><circle cx="900" cy="220" r="2"/>
+</g>
+<rect x="-180" y="0" width="140" height="300" fill="#39FF14" opacity=".035">
+<animate attributeName="x" from="-180" to="1040" dur="5s" repeatCount="indefinite"/>
+</rect>
+<rect x="1" y="1" width="998" height="298" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".25"/>
+</svg>
