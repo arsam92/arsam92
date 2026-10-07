@@ -261,19 +261,37 @@ That turns game AI from a scripted switch into a **system of decisions**.
 
 <img src="https://streak-stats.demolab.com/?user=arsam92&hide_border=true&background=020603&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E8FFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7ACF7A&border_radius=16" width="75%" alt="GitHub streak"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsam92&bg_color=020603&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=ARSAM%20CONTRIBUTION%20GRAPH" width="100%" alt="Contribution graph"/>
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=EAT+THE+CONTRIBUTIONS.;KEEP+CODING.;ONE+COMMIT+AT+A+TIME." alt="Snake caption"/>
 
 </div>
 
 ---
 
-## 🏆 TROPHIES
+## 🏆 GITHUB HIGHLIGHTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arsam92&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+<a href="https://github.com/arsam92?tab=repositories">
+  <img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-39FF14?style=for-the-badge&labelColor=020603" alt="Building projects"/>
+</a>
+<a href="https://github.com/arsam92?tab=stars">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-EXPLORATION-39FF14?style=for-the-badge&labelColor=020603" alt="Open source exploration"/>
+</a>
+<a href="https://github.com/arsam92">
+  <img src="https://img.shields.io/badge/FOCUS-GAMES%20%2B%203D%20%2B%20AI-39FF14?style=for-the-badge&labelColor=020603" alt="Games 3D and AI"/>
+</a>
 
 </div>
 
