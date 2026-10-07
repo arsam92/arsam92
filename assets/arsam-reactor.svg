@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340">
+<defs><radialGradient id="r"><stop stop-color="#E8FFE8"/><stop offset=".25" stop-color="#39FF14"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient><filter id="x"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<rect width="1000" height="340" rx="24" fill="#020603"/>
+<g transform="translate(500 170)">
+<circle r="100" fill="none" stroke="#39FF14" stroke-width="1" stroke-dasharray="3 11" opacity=".35">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+</circle>
+<circle r="78" fill="none" stroke="#7CFF68" stroke-width="2" stroke-dasharray="16 8" opacity=".7">
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="5s" repeatCount="indefinite"/>
+</circle>
+<circle r="55" fill="none" stroke="#39FF14" stroke-width="3" stroke-dasharray="70 25">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.2s" repeatCount="indefinite"/>
+</circle>
+<circle r="35" fill="url(#r)" filter="url(#x)">
+<animate attributeName="r" values="26;42;26" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<circle r="14" fill="#E8FFE8"/>
+<g fill="#39FF14">
+<circle cx="100" cy="0" r="5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+<text x="500" y="44" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="14" letter-spacing="5">ARSAM // CORE REACTOR</text>
+<text x="500" y="316" text-anchor="middle" fill="#7ACF7A" font-family="monospace" font-size="12">ENERGY • MOTION • SYSTEM • BUILD</text>
+<rect x="1" y="1" width="998" height="338" rx="24" fill="none" stroke="#39FF14" stroke-opacity=".22"/>
+</svg>
