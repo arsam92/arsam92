@@ -47,6 +47,31 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
+## 🌌 ARSAM ANIMATION LAB
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-reactor.svg" width="49%" alt="Animated 3D core reactor"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-orbit.svg" width="49%" alt="Animated ARlun orbital system"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-ai-network.svg" width="49%" alt="Animated AI agent network"/>
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-matrix.svg" width="49%" alt="Animated cyber matrix"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-terminal.svg" width="90%" alt="Animated ARlun terminal boot sequence"/>
+
+</div>
+
+> **A profile should feel alive.**  
+> Motion, systems, games, 3D worlds, and agents — that's the direction.
+
+---
+
 ## 👋 WHO I AM
 
 I'm **Arsam** — a builder focused on **programming, game development, browser technology, 3D graphics, AI, and developer tools**.
@@ -136,6 +161,12 @@ world ARLUN {
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-orbit.svg" width="92%" alt="Animated ARlun world orbit"/>
+
+</div>
+
 ---
 
 ## 🧠 GAME AI — DECISION OVER SCRIPT
@@ -187,6 +218,12 @@ An agent should be able to:
 
 That turns game AI from a scripted switch into a **system of decisions**.
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-ai-network.svg" width="92%" alt="Animated multi-agent network"/>
+
+</div>
+
 ---
 
 ## 🎮 WHAT I BUILD
@@ -220,6 +257,12 @@ That turns game AI from a scripted switch into a **system of decisions**.
 <img src="https://img.shields.io/badge/3D-39FF14?style=for-the-badge&logo=blender&logoColor=050805&labelColor=020603" alt="3D"/>
 <img src="https://img.shields.io/badge/GAME_DEV-39FF14?style=for-the-badge&logo=unity&logoColor=050805&labelColor=020603" alt="Game development"/>
 <img src="https://img.shields.io/badge/AI-39FF14?style=for-the-badge&logo=openai&logoColor=050805&labelColor=020603" alt="AI"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-reactor.svg" width="92%" alt="Animated system reactor"/>
 
 </div>
 
@@ -305,6 +348,12 @@ That turns game AI from a scripted switch into a **system of decisions**.
 
 ## 🧭 CURRENT FOCUS
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-matrix.svg" width="94%" alt="Animated cyber matrix"/>
+
+</div>
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                     CURRENT BUILD QUEUE                      ║
@@ -373,6 +422,16 @@ The interesting part of AI for me is not simply generating a response. It's buil
 ARlun is where many of these interests meet: a language and ecosystem aimed at making game and web development feel like one connected environment.
 
 </details>
+
+---
+
+## 💻 SYSTEM TERMINAL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arsam92/arsam92/main/assets/arsam-terminal.svg" width="92%" alt="Animated terminal boot sequence"/>
+
+</div>
 
 ---
 
