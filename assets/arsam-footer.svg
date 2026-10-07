@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="f" x1="0" x2="1">
+      <stop stop-color="#000000"/>
+      <stop offset=".5" stop-color="#0A3B1C"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#f)"/>
+  <g stroke="#39FF14" fill="none" opacity=".35">
+    <path d="M0 170 Q150 115 300 170 T600 170 T900 170 T1200 170"/>
+    <path d="M0 190 Q150 135 300 190 T600 190 T900 190 T1200 190"/>
+    <path d="M0 210 Q150 155 300 210 T600 210 T900 210 T1200 210"/>
+  </g>
+  <g font-family="monospace" text-anchor="middle">
+    <text x="600" y="68" fill="#39FF14" font-size="20" letter-spacing="6">BUILD → BREAK → LEARN → BUILD AGAIN</text>
+    <text x="600" y="112" fill="#E8FFE8" font-size="14" letter-spacing="3">SEE YOU IN THE NEXT COMMIT.</text>
+    <circle cx="470" cy="155" r="3" fill="#39FF14"><animate attributeName="opacity" values=".2;1;.2" dur="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="155" r="3" fill="#39FF14"><animate attributeName="opacity" values="1;.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="155" r="3" fill="#39FF14"><animate attributeName="opacity" values=".2;1;.2" dur="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
